@@ -1,0 +1,13 @@
+Package: neonx
+Version: 2.2.7
+Architecture: aarch64
+Maintainer: inrryoff
+Installed-Size: 2221
+Description: Projeto NeonX - Binario nativo para Termux
+Filename: dists/termux/extras/binary-aarch64/neonx_2.2.7_aarch64.deb
+Size: 491008
+MD5Sum: bf670d5c0edc04ce2ce451073485ed00
+SHA1: 6a67087f105838756701fc42c8ff2d21fb60e05d
+SHA256: 61318140246c695764918d1944568a577042324405ef21136c1e35f179d0590b
+SHA512: f335a5483e8d929567748097becc5e1ee53cd0529885cb75eb1579096941317fe6ca89a34b7f34934880e1a881581cab05781d6b5ad612132315713aadd6ff03
+
